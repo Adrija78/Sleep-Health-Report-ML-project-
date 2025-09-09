@@ -61,7 +61,7 @@ Positive Influences: More workout and relaxation time lead to better sleep.
 
 Negative Influences: High caffeine intake, long work hours, and high screen time reduce sleep.
 
-Model Performance: Decision Tree and KNN achieved better R² scores, capturing complex patterns.
+Model Performance: Linear Regression and SVR achieved better R² scores,providing the best predictive accuracy.
 
 🚀 Future Improvements
 
