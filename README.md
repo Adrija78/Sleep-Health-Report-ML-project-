@@ -75,7 +75,7 @@ Deployment as a web or mobile app for real-time predictions.
 
 Language: Python
 
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+Libraries: pandas, numpy, sklearn, matplotlib, seaborn
 
 Tools: Jupyter Notebook
 
