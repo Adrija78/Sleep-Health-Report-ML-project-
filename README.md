@@ -81,8 +81,8 @@ Tools: Jupyter Notebook
 
 ▶️ How to Run
 # Clone the repository
-git clone https://github.com/yourusername/sleep-time-prediction.git
-
+git clone [https://github.com/yourusername/sleep-time-prediction.git
+](https://sleep-hours-prediction-webapp.onrender.com)
 # Navigate to the folder
 cd sleep-time-prediction
 
